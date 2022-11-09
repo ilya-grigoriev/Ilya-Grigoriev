@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Ilya-Grigoriev
+- 👋 Hi, I’m Ilya Grigoryev.
 - 👀 I’m interested in writing parsers, chatbots, etc.
 - 📫 You can contact me by ilia092006grig@gmail.com
