@@ -1,3 +1,8 @@
-- 👋 Hi, I’m Ilya Grigoryev.
-- 👀 I’m interested in writing parsers, chatbots, etc.
-- 📫 You can contact me by ilia092006grig@gmail.com
+# Hi, I’m Ilya Grigoryev 👋
+### I’m interested in writing parsers, chatbots.
+### My stack: 
+- Bots (**Telegram**, **Discord**)
+- Parsing data
+- Working with databases (**PostgreSQL**, **SQLite**)
+- Create program (**PyQT5**, **Pygame**)
+### You can contact me by ilia092006grig@gmail.com
