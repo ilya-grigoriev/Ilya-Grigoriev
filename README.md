@@ -9,4 +9,4 @@
 - Working with databases (**PostgreSQL**, **SQLite**)
 - Create program (**PyQT5**, **Pygame**)
 
-### You can contact me by ilia092006grig@gmail.com
+### You can contact me by ilyagrigoryevworkmail@gmail.com
